@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vocabulary</string>
+    <string name="hello_world">Patrick is so cool!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
